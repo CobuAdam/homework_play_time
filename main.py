@@ -1,4 +1,4 @@
-# Program "Play Time "
+# Program "Play Time! "
 '''
     0. Introduce yourself and ask for user's name.
     
