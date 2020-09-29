@@ -26,7 +26,7 @@
           
           Math operations:
           
-          //  - interger division
+          //  - integer division
           %   - remainder
           *   - multiplication
           /   - float division
